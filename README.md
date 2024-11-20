@@ -2,6 +2,8 @@
 # Image cropping using Retina Face 
 
 This project utilizes the RetinaFace machine learning model to crop faces from an image dataset, preparing the data for facial recognition model training.
+
+
 ![Face Cropping Demo](IMG_0631.gif "Face Cropping in Action")
 
 
