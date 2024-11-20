@@ -1,12 +1,13 @@
 
 # Image cropping using Retina Face 
 
-This project utilizes the RetinaFace machine learning model to crop faces from an image dataset, preparing the data for training a facial recognition model.
+This project utilizes the RetinaFace machine learning model to crop faces from an image dataset, preparing the data for facial recognition model training.
+![Face Cropping Demo](IMG_0631.gif "Face Cropping in Action")
 
 
 ## Appendix
 
-This script detects and crops faces from images using the RetinaFace model and saves the cropped images to a specified folder.
+This script detects and crops faces from images using the RetinaFace model and save the cropped images to a specified folder.
 ### imports
 - RetinaFace: Detects faces in images.
 - cv2: Reads and writes images.
@@ -20,4 +21,4 @@ This script detects and crops faces from images using the RetinaFace model and s
 
 
 ## Dependencies
-pip install retinaface opencv-python
+pip install retina face opencv-python
